@@ -10,3 +10,9 @@ header {
 div.name {
 	text-align: center;
 }
+footer {
+	margin: auto;
+	width: 80%;
+	border: 5px;
+	text-align: center;
+}
