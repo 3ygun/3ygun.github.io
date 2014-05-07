@@ -6,7 +6,7 @@ body {
 header {
 	margin: auto;
 	width: 80%;
-	color: white;
+
 }
 div.name {
 	text-align: center;
@@ -15,5 +15,5 @@ footer {
 	margin: auto;
 	width: 80%;
 	text-align: center;
-	color: white;
+
 }
