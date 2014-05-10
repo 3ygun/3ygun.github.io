@@ -16,3 +16,10 @@ footer {
 .spacer {
 	height: 50px;
 }
+.about {
+	width: 80%;
+	margin: auto;
+}
+.about > ul {
+	text-align: center;
+}
