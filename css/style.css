@@ -3,11 +3,6 @@ body {
 
 	background-color: #2A3440;
 }
-header {
-	margin: auto;
-	width: 80%;
-
-}
 div.name {
 	text-align: center;
 }
@@ -16,4 +11,8 @@ footer {
 	width: 80%;
 	text-align: center;
 
+}
+
+.spacer {
+	height: 50px;
 }

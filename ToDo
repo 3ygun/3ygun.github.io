@@ -3,7 +3,7 @@ Consistently:
 
 	- BootStrap look
 
-	- Responcive web design
+	- Responsive web design
 
 	- Easy of read (font formatting)
 
@@ -11,9 +11,12 @@ Consistently:
 
 Checklist (relative order):
 	- Get links to within page content working
+	
+	- Split into a 'working' branch
 
 	- Generate Intro Blurb About me
-		~ Why I created the site
+		~ Explain:
+			Why I created the site
 			What do I want to do
 			link to my GitHub
 			link to resume (without address)
@@ -23,7 +26,7 @@ Checklist (relative order):
 		~ OSU:
 			Logo
 			Major
-			Expected Gaduation Date
+			Expected Graduation Date
 		~ Bishop Watterson:
 			Logo
 			Awards
@@ -69,10 +72,9 @@ Checklist (relative order):
 	- Generate Site Creation content
 		~ Documenting the steps I went through to make this site maybe a few picture progression things
 
-	- Javascript app that will display my work in boxes so that as I add me they will be able to scroll through
+	- JavaScript app that will display my work in boxes so that as I add me they will be able to scroll through
 		~ possibly have like a 1 of 10 in the top corner
 
-	- Decide on a color sceme
+	- Decide on a color scheme
 
 	- Others to come!
-	
