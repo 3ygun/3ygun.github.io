@@ -3,9 +3,7 @@ body {
 
 	background-color: #2A3440;
 }
-div.name {
-	text-align: center;
-}
+
 footer {
 	margin-left: auto;
 	margin-right: auto;
@@ -14,14 +12,34 @@ footer {
 
 }
 
-.spacer {
-	height: 50px;
-}
-.about {
+section {
 	width: 80%;
 	margin-left: auto;
 	margin-right: auto;
 }
+
+.name {
+	text-align: center;
+}
+
+.spacer {
+	height: 50px;
+}
+
+.scale-image {
+	max-width: 200px;
+}
+
+@media (max-width: 780px) {
+	.scale-image {
+		max-width: 400px;
+	}
+}
+
 .about > ul {
 	text-align: center;
+}
+
+.line-up {
+	position: relative;
 }
