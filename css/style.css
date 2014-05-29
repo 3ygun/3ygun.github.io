@@ -43,3 +43,7 @@ section {
 .line-up {
 	position: relative;
 }
+
+.stuff1 {
+	max-width: 80% !important;
+}
