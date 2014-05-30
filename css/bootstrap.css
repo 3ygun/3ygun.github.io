@@ -754,6 +754,12 @@ pre code {
     width: 1170px;
   }
 }
+@media (min-width: 1400px) { /* My addition */
+  .container {
+    width: 82%;
+  }
+}
+
 .container-fluid {
   padding-right: 15px;
   padding-left: 15px;
