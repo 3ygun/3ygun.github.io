@@ -73,8 +73,12 @@ Checklist (relative order):
 	- Generate Site Creation content
 		~ Documenting the steps I went through to make this site maybe a few picture progression things
 
-	- JavaScript app that will display my work in boxes so that as I add me they will be able to scroll through
-		~ possibly have like a 1 of 10 in the top corner
+	- JavaScript:
+		~ Section-highlighter:
+			* If mouse hover (on who? what? when?) then change text color on id.
+		~ Work Showcase:
+			* A side scrolling showcae of my projects
+				> Have the # of projects one corner
 
 	- Decide on a color scheme
 
