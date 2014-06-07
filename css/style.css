@@ -13,10 +13,12 @@ body {
 }
 
 footer {
+	width: 80%;
+	background-color: #364252;
 	margin-left: auto;
 	margin-right: auto;
-	width: 80%;
 	text-align: center;
+	padding: 1%;
 }
 
 section {
@@ -50,7 +52,7 @@ section {
 	}
 }
 
-.about > ul {
+.about > div > ul {
 	text-align: center;
 }
 
