@@ -739,26 +739,12 @@ pre code {
   margin-right: auto;
   margin-left: auto;
 }
-@media (min-width: 768px) {
+@media (min-width: 768px) { /* My addition */
   .container {
-    width: 750px;
+    width: 520px;
   }
 }
-@media (min-width: 992px) {
-  .container {
-    width: 970px;
-  }
-}
-@media (min-width: 1200px) {
-  .container {
-    width: 1170px;
-  }
-}
-@media (min-width: 1400px) { /* My addition */
-  .container {
-    width: 82%;
-  }
-}
+
 
 .container-fluid {
   padding-right: 15px;
