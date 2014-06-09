@@ -34,6 +34,16 @@ section {
 	padding: 15px;
 }
 
+.w3-container {
+	width: inherit;
+}
+
+@media (max-width: 780px) {
+	.w3-container > h2 {
+		font-size: 0.5em;
+	}
+}
+
 .name {
 	text-align: center;
 }
@@ -52,12 +62,12 @@ section {
 	}
 }
 
-.about > div > ul {
-	text-align: center;
-}
-
 .line-up {
 	position: relative;
+}
+
+.center{
+	text-align: center;
 }
 
 .stuff1 {
