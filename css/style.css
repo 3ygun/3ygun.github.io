@@ -73,3 +73,22 @@ section {
 .stuff1 {
 	max-width: 80% !important;
 }
+
+.col-group > div {
+  padding: 1em;
+  margin-bottom: 1em;  
+}
+
+@media screen and (min-width: 44em) {
+  .col-group {
+    overflow: hidden;
+  }
+  .col-group > .pic {
+    float: left;
+    width: 20%;
+  }
+  .col-group > .text {
+    float: left;
+    width: 80%;
+  }
+}
