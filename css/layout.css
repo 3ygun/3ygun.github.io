@@ -37,13 +37,13 @@
 @media screen and (min-width: 50em) {
   .col-5-group > div {
     float: left;
-    width: 33.3333333%;
+    width: 50%;
   }
-  .col-5-group > div:nth-child(3n+1) {
+  .col-5-group > div:nth-child(2n+1) {
     clear: left;
   }
   .col-5-group > div:nth-child(odd) {
-    clear: none;
+    clear: left;
   }
 }
 
