@@ -13,7 +13,7 @@ body {
 }
 
 footer {
-	width: 80%;
+	width: 60%;
 	background-color: #364252;
 	margin-left: auto;
 	margin-right: auto;
@@ -22,7 +22,7 @@ footer {
 }
 
 section {
-	width: 80%;
+	width: 60%;
 	background-color: #364252;
 	margin-left: auto;
 	margin-right: auto;
@@ -71,24 +71,5 @@ section {
 }
 
 .stuff1 {
-	max-width: 80% !important;
-}
-
-.col-group > div {
-  padding: 1em;
-  margin-bottom: 1em;  
-}
-
-@media screen and (min-width: 44em) {
-  .col-group {
-    overflow: hidden;
-  }
-  .col-group > .pic {
-    float: left;
-    width: 20%;
-  }
-  .col-group > .text {
-    float: left;
-    width: 80%;
-  }
+	max-width: 70% !important;
 }
