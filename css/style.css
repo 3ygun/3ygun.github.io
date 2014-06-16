@@ -13,45 +13,37 @@ body {
 }
 
 footer {
-	width: 90%;
+	width: 96%;
 	background-color: #364252;
 	margin-left: auto;
 	margin-right: auto;
 	text-align: center;
-	padding: 1%;
+	padding: 2%;
 }
 
 section {
-	width: 90%;
+	width: 96%;
 	background-color: #364252;
 	margin-left: auto;
 	margin-right: auto;
-	padding: 1%;
+	padding: 2%;
 }
 
 @media (min-width: 768px) { /* So if it's a big screen, I only take a little place */
 	footer {
-		width: 60%;
+		width: 730px;
+		padding: 15px;
 	}
 
 	section {
-		width: 60%;
+		width: 730px;
+		padding: 15px;
 	}
 }
 
 .my-container {
 	background-color: #2A3440;
 	padding: 15px;
-}
-
-.w3-container {
-	width: inherit;
-}
-
-@media (min-width: 768px) {
-	.w3-container > h2 {
-		font-size: 0.5em;
-	}
 }
 
 .name {
