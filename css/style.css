@@ -54,11 +54,19 @@ section {
 	height: 50px;
 }
 
-.scale-image {
-	max-width: 200px;
+.pic {
+	margin-top: 28px;
 }
 
-@media (max-width: 780px) {
+.scale-image {
+	max-width: 130px;
+}
+
+@media (max-width: 768px) {
+	.pic {
+		margin-top: 0px;
+	}
+
 	.scale-image {
 		max-width: 300px;
 	}
