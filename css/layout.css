@@ -1,3 +1,13 @@
+@media screen and (max-width: 380px) { /* Small screen */
+  .stay-h1-inline {
+    font-size: 33px;
+  }
+
+  .stay-h2-inline {
+    font-size: 27px;
+  }
+}
+
 .col-2-group > div {
   padding: 1em;
   margin-bottom: 1em;  
