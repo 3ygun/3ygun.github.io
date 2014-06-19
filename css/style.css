@@ -55,20 +55,20 @@ section {
 }
 
 .pic {
-	margin-top: 28px;
+	margin-top: 0px;
 }
 
 .scale-image {
-	max-width: 130px;
+	max-width: 276px;
 }
 
-@media (max-width: 768px) {
+@media (min-width: 768px) {
 	.pic {
-		margin-top: 0px;
+		margin-top: 28px;
 	}
 
 	.scale-image {
-		max-width: 300px;
+		max-width: 130px;
 	}
 }
 
@@ -78,8 +78,4 @@ section {
 
 .center{
 	text-align: center;
-}
-
-.stuff1 {
-	max-width: 70% !important;
 }
