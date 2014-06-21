@@ -54,15 +54,30 @@ section {
 	height: 50px;
 }
 
+.line-up {
+	position: relative;
+}
+
+.center{
+	text-align: center;
+}
+
 .pic {
 	margin-top: 0px;
+	width: 276px;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 .scale-image {
 	max-width: 276px;
 }
 
-@media (min-width: 768px) {
+@media screen and (min-width: 380px) {
+	/* Waiting for stuff */
+}
+
+@media screen and (min-width: 768px) { /* When it doesn't include the drop down menu */
 	.pic {
 		margin-top: 28px;
 	}
@@ -70,12 +85,4 @@ section {
 	.scale-image {
 		max-width: 130px;
 	}
-}
-
-.line-up {
-	position: relative;
-}
-
-.center{
-	text-align: center;
 }
