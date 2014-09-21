@@ -1,29 +1,31 @@
 /*
- * Dark Gray: #2A3440;
- * Medium Gray: #364252;
- * Light Gray: #4B5D73;
+ * Dark Gray: #323538;
+ * Medium Gray: #42484F;
  *
- * Red: #600000;
- *
+ * Black: #1A1A1A;
+ * Light Blue Background: #72B7F2;
+ * Regular Blue: #428bca;
+ * Dark Blue: #2a6496;
  */
 
 body {
 	font-family: Helvetica;
-	background-color: #4B5D73;
+	background-color: #1A1A1A;
 }
 
 footer {
 	width: 96%;
-	background-color: #364252;
+	background-color: #323538;
 	margin-left: auto;
 	margin-right: auto;
 	text-align: center;
 	padding: 2%;
+	padding-right: 10px
 }
 
 section {
 	width: 96%;
-	background-color: #364252;
+	background-color: #323538;
 	margin-left: auto;
 	margin-right: auto;
 	padding: 2%;
@@ -42,7 +44,7 @@ section {
 }
 
 .my-container {
-	background-color: #2A3440;
+	background-color: #42484F;
 	padding: 15px;
 }
 
@@ -60,6 +62,10 @@ section {
 
 .center{
 	text-align: center;
+}
+
+.indent > p {
+	padding-left: 20px;
 }
 
 .pic {
