@@ -1,0 +1,7 @@
+a, .navbar-default .navbar-nav > li > a {
+    color: #ffa500;
+}
+
+a:hover, .navbar-default .navbar-nav > li > a:hover {
+    color: #cc8400;
+}
