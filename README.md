@@ -1,6 +1,6 @@
 # 3ygun.github.io
 
-Personal site. Because this is a user GitHub Pages site one needs to switch to the `dev` branch to see and edit the code.
+Personal site. Because this is a user GitHub Pages site one needs to switch to the `work` branch to see and edit the code.
 
 ## Table of Contents
 
